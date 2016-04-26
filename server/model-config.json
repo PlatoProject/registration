@@ -31,5 +31,17 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "voter": {
+    "dataSource": "db",
+    "public": true
+  },
+  "address": {
+    "dataSource": "db",
+    "public": true
+  },
+  "voter_address": {
+    "dataSource": "db",
+    "public": true
   }
 }
